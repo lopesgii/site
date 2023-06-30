@@ -1,3 +1,8 @@
 body{
     background-color: rgb(216, 236, 230);
+    color: #1b1a1a;
+}
+
+.cabecalho-imagem{
+    width: 1000px;
 }
